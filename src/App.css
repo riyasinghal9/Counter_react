@@ -1,7 +1,21 @@
+
 .App {
   text-align: center;
+  margin-top: 50px;
 }
 
+button {
+  margin: 0 10px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.submit-box {
+  border: 1px solid #ccc;
+  display: block;
+  padding: 10px;
+  margin: 10px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
